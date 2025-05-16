@@ -34,5 +34,5 @@ This setup allows you to:
 * Work and experiment locally with full control and history
 * Stay up to date with upstream changes using git fetch upstream and git rebase
 
-![Git Databases](docs-img/Git-DB.png)
+![Git Databases](docs/img/Git-DB.png)
 
