@@ -35,4 +35,7 @@ This setup allows you to:
 * Stay up to date with upstream changes using git fetch upstream and git rebase
 
 ![Git Databases](img/Git-DB.png)
+<p align="center">
+  <img src="img/Git-DB.png" alt="Descrizione dell'immagine">
+</p>
 
