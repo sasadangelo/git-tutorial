@@ -6,5 +6,5 @@ This repository aims to provide a comprehensive introduction to Git, focusing on
 
 ## 🧭 Table of Contents
 
-* [Fundamental_Concepts_of_Git](docs/Fundamental_Concepts_of_Git.md)
+* [Fundamental Concepts of Git](docs/Fundamental_Concepts_of_Git.md)
 
