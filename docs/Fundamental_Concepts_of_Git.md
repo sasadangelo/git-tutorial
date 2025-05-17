@@ -36,6 +36,6 @@ This setup allows you to:
 
 ![Git Databases](img/Git-DB.png)
 <p align="center">
-  <img src="img/Git-DB.png" alt="Descrizione dell'immagine">
+  <img src="img/Git-DB.png" alt="Fundamental Concepts of Git">
 </p>
 
